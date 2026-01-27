@@ -10,24 +10,22 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good graph: https://datavizproject.com/wp-content/uploads/examples/Skærmbillede-2017-07-03-kl.-15.37.03.png
+      
+      I classified it as a good graph because it fulfills the important qualities of data visualization that we have discussed in class. First, this bar chart uses a clean layout with geometric shapes to present information in a manner that is clear and easy to understand. The categories and units are clearly labeled. The shape, colour, and size used in the graph are visually pleasing and accommodating for colour-blindness. Furthermore, it avoids conveying any emotional narrative and includes the data source at the bottom of the graph. All of these traits also comply with the conventions of data visualization described in Kennedy et al. (2016), which allow the graph to reinforce perceived objectivity and factual basis.
 
 
+      Bad graph: https://datavizproject.com/data-type/bar-chart/
 
-
-
-
+      I classified it as a bad graph because while it represents data in a very creative and engaging manner, it fails to fulfill the Substantive and Perceptual qualities that are key to good data visualization. First of all, gaining a clear understanding of the message that the creator is trying to convey is difficult as the title and unit of measurement are both ambiguous. The title “French Fry Consumption by Month in 2010” does not identify who or where the consumers are. The y-axis is labeled with the numbers 0, 5, 10, and 15. However, no definition is provided regarding the unit of measurement. Next, the bars of this graph are replaced by French fries of different lengths. This design is aesthetic, yet, based on what we discussed in the lectures, the unfamiliar and complex design increases the cognitive load while making comparisons between the months more difficult. Lastly, this graph lacks the source of data, which undermines its trustworthiness and transparency.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      The good graph: As a graph for general purposes, I do not have many suggestions for this graph except one: the title of the graph “Fizzy cola drinks Litres per capita” is slightly confusing; its clarity could be improved through specification, such as “Annual consumption of Fizzy cola drinks (Litres per capita)”. It can also be refined to tailor for specific purposes, audience, and medium. For instance, lines can be added to highlight the differing trends in change: the observed and projected changes are minimal for World and UK, while a notable reduction has been observed and is projected for the US.
 
 
-
-
-
-
+      The bad graph: The title should clearly explain what information the graph is trying to present or convey. The unit of measurement needs to be clearly defined. Data source should also be provided on the bottom of the graph to enhance its transparency and trustworthiness. Finally, while the creative use of French fry images to represent bars increases cognitive load, it can assist the visualization to better achieve its intended purposes or appeal to its target audience. Meanwhile, to enhance its clarity and accuracy, the exact value can be added on or above each bar. 
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
